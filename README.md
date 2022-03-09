@@ -66,8 +66,8 @@ Users should be able to:
 - [W3 Schools](https://www.w3schools.com/html/html_quotation_elements.asp) - Quotation elements
 - [MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation) - Client-side validation
 - [YouTube](https://www.youtube.com/watch?v=fzgLWi40-2g) - Testimonial Slider Tutorial
-- [CSS Tricks](https://css-tricks.com/the-many-ways-to-change-an-svg-fill-on-hover-and-when-to-use-them/)
-- [Stack Overflow](https://stackoverflow.com/questions/17756649/disable-the-horizontal-scroll)
+- [CSS Tricks](https://css-tricks.com/the-many-ways-to-change-an-svg-fill-on-hover-and-when-to-use-them/) - change svg fill on hover
+- [Stack Overflow](https://stackoverflow.com/questions/17756649/disable-the-horizontal-scroll) - disable horizontal scroll
 - [Smashing Magazine](https://www.smashingmagazine.com/2021/04/css-overflow-issues/) - Overflow issues
 - [Stack Overflow](https://stackoverflow.com/questions/36531708/why-can-absolutely-positioned-elements-make-areas-scrollable) - Overflow left vs right differences
 - [Stack Overflow](https://stackoverflow.com/questions/3680429/click-through-div-to-underlying-elements) - Pointer events
